@@ -54,7 +54,7 @@ export default function RootLayout({
                 href="https://github.com/joymar300"
                 title="https://github.com/joymar300"
               >
-                <span className="text-default-600">Powered by</span>
+                <span className="text-default-600">Powered by tu mae tienen una polla</span>
                 <p className="text-primary">joymar </p>
               </Link>
             </footer>
